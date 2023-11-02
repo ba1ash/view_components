@@ -1,5 +1,21 @@
 # CHANGELOG
 
+## 0.14.0
+
+### Minor Changes
+
+- [#2335](https://github.com/primer/view_components/pull/2335) [`684f9a51`](https://github.com/primer/view_components/commit/684f9a51a1ccb006a9ce2fbadb296ca5c68bd560) Thanks [@camertron](https://github.com/camertron)! - Add a ClipboardCopyButton component
+
+- [#2330](https://github.com/primer/view_components/pull/2330) [`6bf8da54`](https://github.com/primer/view_components/commit/6bf8da54220c3301ad0bc2bbb44c2905ad6db89c) Thanks [@camertron](https://github.com/camertron)! - Allow several font sizes for Subhead headings
+
+- [#2336](https://github.com/primer/view_components/pull/2336) [`94db2c4b`](https://github.com/primer/view_components/commit/94db2c4bc590e6b41760f5a8867c6b1cae669a1d) Thanks [@camertron](https://github.com/camertron)! - Add Rails 7.1 support
+
+### Patch Changes
+
+- [#2337](https://github.com/primer/view_components/pull/2337) [`0189b553`](https://github.com/primer/view_components/commit/0189b553f9fb94858d5526a669d006dc0b2a6050) Thanks [@mperrotti](https://github.com/mperrotti)! - Adapts Blankslate to render proportionally in narrow areas
+
+  <!-- Changed components: Blankslate -->
+
 ## 0.13.2
 
 ### Patch Changes
